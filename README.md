@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @solposer.
 - 👀 I’m interested in software devlopment ^^
-- 🌱 I’m currently learning Back-end development
+- 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me :
-  ig: @solposer_
   linkedin: Marisol Quevedo ✨
 
 <!---
