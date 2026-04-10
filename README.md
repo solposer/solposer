@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solposer.
-- 👀 I’m interested in software devlopment ^^
+- 👀 I’m interested in software development ^^
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me :
