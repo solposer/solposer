@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solposer.
 - 👀 I’m interested in software development ^^
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Front-end development libraries
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me :
   linkedin: Marisol Quevedo ✨
